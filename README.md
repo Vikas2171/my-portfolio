@@ -1,10 +1,13 @@
 # My Interactive Terminal Portfolio
 
-### 🔴 **Live Demo:** [https://vikas-porfolio.netlify.app](https://www.google.com/search?q=https://vikas-porfolio.netlify.app)
-
-
------
-
+### 🔴 **Live Demo:** [Vikas Porfolio](https://vikas-porfolio.netlify.app)
+---
+![Terminal Section](https://github.com/Vikas2171/my-portfolio/blob/main/screenshots/terminal.png)
+---
+![Cipher Machine](https://github.com/Vikas2171/my-portfolio/blob/main/screenshots/cipher-machine.png)
+---
+![Contact](https://github.com/Vikas2171/my-portfolio/blob/main/screenshots/contact.png)
+---
 ## About This Project
 
 This is a fully interactive, responsive portfolio designed to look and feel like a developer's terminal. The entire project is built from scratch using **vanilla HTML, CSS, and JavaScript**, showcasing a deep understanding of core web technologies.
