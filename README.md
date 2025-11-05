@@ -4,7 +4,11 @@
 ---
 ![Terminal Section](https://github.com/Vikas2171/my-portfolio/blob/main/screenshots/terminal.png)
 
+---
+
 ![Cipher Machine](https://github.com/Vikas2171/my-portfolio/blob/main/screenshots/cipher-machine.png)
+
+---
 
 ![Contact](https://github.com/Vikas2171/my-portfolio/blob/main/screenshots/contact.png)
 
